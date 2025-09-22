@@ -128,8 +128,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 For inquiries, support, or collaboration opportunities, please reach out to the project maintainer:
 
-- **Project Maintainer**: Sachitha Samadhi
-- **GitHub Profile**: [@sachithasamadhib](https://github.com/sachithasamadhib)
+- **Project Maintainer**: Viraj Gunasinghe
+- **GitHub Profile**: [@virajwathsalag](https://github.com/virajwathsalag)
 
 ---
 
