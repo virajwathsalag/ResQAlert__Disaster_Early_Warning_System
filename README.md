@@ -118,7 +118,7 @@ For minor suggestions or bug reports, feel free to open an issue with the approp
 ## 👥 Contributors
 We are grateful to the following contributors for their valuable efforts in building ResQAlert:
 
-- [Viraj Wathsala Gunasinghe](https://github.com/virajwathsalag)
+- [Sachitha Samadhi Bandara](https://github.com/sachithasamadhib)
 - [Ravin Jayasanka](https://github.com/MrRaveen)
 - [Sanuja Rasanajna](https://github.com/SanujaRasanajna2007)
 
